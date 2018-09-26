@@ -1,0 +1,184 @@
+TextureSet
+
+TextureCount 18
+
+Start Texture001
+    "d:\ymir work\terrainmaps\westguards\terrain_westguards_09.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture001
+Start Texture002
+    "d:\ymir work\terrainmaps\b\field\field 02.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture002
+Start Texture003
+    "d:\ymir work\terrainmaps\b\field\field 03.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture003
+Start Texture004
+    "d:\ymir work\terrainmaps\westguards\terrain_westguards_21.dds"
+    6.000000
+    6.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture004
+Start Texture005
+    "d:\ymir work\terrainmaps\westguards\terrain_westguards_23.dds"
+    5.000000
+    5.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture005
+Start Texture006
+    "d:\ymir work\terrainmaps\westguards\terrain_westguards_25.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture006
+Start Texture007
+    "d:\ymir work\terrainmaps\studio\grass\green02.dds"
+    5.000000
+    5.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture007
+Start Texture008
+    "d:\ymir work\terrainmaps\westguards\terrain_westguards_10.dds"
+    5.000000
+    5.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture008
+Start Texture009
+    "d:\ymir work\terrainmaps\westguards\terrain_westguards_12.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture009
+Start Texture010
+    "d:\ymir work\terrainmaps\b\stone\stone03.dds"
+    5.000000
+    5.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture010
+Start Texture011
+    "d:\ymir work\terrainmaps\b\stone\stone04.dds"
+    5.000000
+    5.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture011
+Start Texture012
+    "d:\ymir work\terrainmaps\westguards\terrain_westguards_30.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture012
+Start Texture013
+    "d:\ymir work\terrainmaps\wom\wom_grass_flowers.dds"
+    5.000000
+    5.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture013
+Start Texture014
+    "d:\ymir work\terrainmaps\b\beach\beach sand 01.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture014
+Start Texture015
+    "d:\ymir work\terrainmaps\b\beach\beach sand 02.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture015
+Start Texture016
+    "d:\ymir work\terrainmaps\b\beach\beach sand 03.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture016
+Start Texture017
+    "d:\ymir work\terrainmaps\b\tile\tile03.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture017
+Start Texture018
+    "d:\ymir work\terrainmaps\wom\wom_groundplants.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture018
