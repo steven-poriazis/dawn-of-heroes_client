@@ -1,0 +1,30 @@
+Module Name: C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+Time Stamp: 0x5b8d4560 - (null)
+
+Exception Type: 0xc0000005
+
+eax: 0x00000000	ebx: 0x00000000
+ecx: 0x03633b48	edx: 0x1e200cd0
+esi: 0x1e0862e0	edi: 0x03633b48
+ebp: 0x0137f440	esp: 0x0137f438
+
+0x1e07a7a7	C:\Users\Steven Poriazis\Desktop\M2 DoH\python27.dll
+0x1e0ea04c	C:\Users\Steven Poriazis\Desktop\M2 DoH\python27.dll
+0x1e07a782	C:\Users\Steven Poriazis\Desktop\M2 DoH\python27.dll
+0x010934d7	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x01093025	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x00f43c65	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x00f46932	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x010133f5	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x772b8e71	C:\Windows\SYSTEM32\USER32.dll
+0x772b90d1	C:\Windows\SYSTEM32\USER32.dll
+0x772b932c	C:\Windows\SYSTEM32\USER32.dll
+0x772b9529	C:\Windows\SYSTEM32\USER32.dll
+0x77c40666	C:\Windows\SYSTEM32\ntdll.dll
+0x00fa8450	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x00fa8776	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x010a0792	C:\Users\Steven Poriazis\Desktop\M2 DoH\Dawn of Heroes.exe
+0x777e7c04	C:\Windows\SYSTEM32\KERNEL32.DLL
+0x77c5ad8f	C:\Windows\SYSTEM32\ntdll.dll
+0x77c5ad5a	C:\Windows\SYSTEM32\ntdll.dll
+
