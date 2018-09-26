@@ -1,0 +1,79 @@
+ScriptType         EnvrionmentData
+ScriptVersion      1.0000
+
+Group DirectionalLight
+{
+    Direction     0.610696 0.518166 -0.598794
+
+    Group Background
+    {
+        Enable        1
+        Diffuse       1.000000 1.000000 1.000000 1.000000
+        Ambient       0.207843 0.278431 0.270588 1.000000
+    }
+    
+    Group Character
+    {
+        Enable        1
+        Diffuse       1.000000 1.000000 1.000000 1.000000
+        Ambient       0.357843 0.428431 0.420588 1.000000
+    }
+}
+Group Material
+{
+    Diffuse       0.764706 0.752941 0.752941 1.000000
+    Ambient       0.000000 0.000000 0.000000 1.000000
+    Emissive      0.239216 0.239216 0.239216 1.000000
+}
+
+Group Fog
+{
+    Enable        1
+    NearDistance  10000.000000
+    FarDistance   35000.000000
+    Color         0.270588 0.270588 0.270588 1.000000
+}
+
+Group Filter
+{
+    Enable        0
+    Color         0.298039 0.098039 0.098039 0.000000
+    AlphaSrc      2
+    AlphaDest     2
+}
+
+Group SkyBox
+{
+    bTextureRenderMode    1
+    Scale                 3500.000000 3500.000000 3500.000000
+    GradientLevelUpper    0
+    GradientLevelLower    0
+    FrontFaceFileName	   "D:\ymir work\environment\skybox\cumulonimbus\front_1.5k.dds"
+    BackFaceFileName	   "D:\ymir work\environment\skybox\cumulonimbus\back_1.5k.dds"
+    LeftFaceFileName	   "D:\ymir work\environment\skybox\cumulonimbus\left_1.5k.dds"
+    RightFaceFileName	   "D:\ymir work\environment\skybox\cumulonimbus\right_1.5k.dds"
+    TopFaceFileName	   "D:\ymir work\environment\skybox\cumulonimbus\top_1.5k.dds"
+    BottomFaceFileName	   ""
+    
+    CloudScale            200000.000000 200000.000000
+    CloudHeight           30000.000000
+    CloudTextureScale     4.000000 4.000000
+    CloudSpeed            0.001000 0.001000
+    CloudTextureFileName  ""
+    List CloudColor
+    {
+        0.000000 0.000000 0.000000 0.000000
+        0.000000 0.000000 0.000000 0.000000
+    }
+}
+
+Group LensFlare
+{
+    Enable                     0
+    BrightnessColor            0.980392 0.980392 0.980392 1.000000
+    MaxBrightness              1.000000
+    MainFlareEnable            0
+    MainFlareTextureFileName   ""
+    MainFlareSize              0.200000
+}
+
